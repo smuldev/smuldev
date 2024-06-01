@@ -10,8 +10,8 @@ Pratico design gráfico no geral a quase 5 anos, e tenho experiencia com criaç�
 **Entre em contato**:
 <br>
 <p>
-<a href="https://www.instagram.com/smul.tm/"><img src="https://www.svgrepo.com/show/343562/instagram-social-media-network-communication-interaction-connection.svg" alt="instagram-logo" width="20px"></a>
-<a href="https://www.linkedin.com/in/samuel-batista-oliveira-a2420a304/"><img src="https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" alt="linkedin-logo" width="20px"></a>
+<a href="https://www.instagram.com/smul.tm/"><img src="https://www.svgrepo.com/show/343562/instagram-social-media-network-communication-interaction-connection.svg" alt="instagram-logo" width="20px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/samuel-batista-oliveira-a2420a304/"><img src="https://www.svgrepo.com/show/343567/linkedin-network-communication-connection-internet-online.svg" alt="linkedin-logo" width="20px" target="_blank"></a>
 </p>
 <br>
 
